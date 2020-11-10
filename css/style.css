@@ -1,3 +1,32 @@
 /*CSS styles for term project by [Brynn Martinson]*/
+body{
+    background-color:bisque;
+    font-family:Arial, Helvetica, sans-serif;
+            }
+            .bio{
+            color:black;
+            padding-top: 1rem;
+            border-left: green solid;
+            border-right: green solid; 
+            border-top: green solid;
+            border-bottom: green solid;
+            }
+            .displayed {
+             display:block;
+             margin-left: auto;
+             margin-right:auto;
+             width: 300px;
+             width: 150px; 
+            }
+            .container {
+    max-width: 500px;
+    margin: auto; 
+            }
+    .social1{
+        color: lightblue
+    }
+.social2{
+    color: purple
+}
 
 
